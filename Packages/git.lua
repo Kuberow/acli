@@ -1,1 +1,1 @@
-shell.run("wget run https://pinestore.cc/d/156")
+shell.run("pastebin get yYchuLGa /root/cmd/git.lua")
